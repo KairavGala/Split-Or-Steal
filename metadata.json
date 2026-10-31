@@ -1,0 +1,6 @@
+{
+  "name": "Golden Spheres: Split or Steal",
+  "description": "A high-stakes pass-and-play TV game show game of bluffing, jackpot building, and split or steal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
